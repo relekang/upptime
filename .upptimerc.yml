@@ -10,7 +10,7 @@ sites:
   - name: feedhuddler.com
     url: https://feedhuddler.com
   - name: feedhuddler rss-parser
-    url: https://feedhuddler.com/rss-parser
+    url: https://feedhuddler.com/rss-parser/
     method: POST
     headers:
     - "Content-Type: application/json"
