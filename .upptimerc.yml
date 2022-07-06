@@ -12,7 +12,7 @@ sites:
   - name: feedhuddler rss-parser
     url: https://feedhuddler.com/rss-parser
     method: POST
-    body: '{ "query": "{findFeed(url: "https://rolflekang.com") { title }}" }'
+    body: '{ "query": "{findFeed(url: \"https://rolflekang.com\") { title }}" }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
