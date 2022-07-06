@@ -12,6 +12,8 @@ sites:
   - name: feedhuddler rss-parser
     url: https://feedhuddler.com/rss-parser
     method: POST
+    headers:
+    - "Content-Type: application/json"
     body: '{ "query": "{findFeed(url: \"https://rolflekang.com\") { title }}" }'
 
 status-website:
