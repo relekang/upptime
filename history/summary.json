@@ -58,17 +58,17 @@
     "url": "https://feedhuddler.com/rss-parser/",
     "icon": "https://icons.duckduckgo.com/ip3/feedhuddler.com.ico",
     "slug": "feedhuddler-rss-parser",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 1044,
-    "timeWeek": 588,
-    "timeMonth": 482,
-    "timeYear": 501,
+    "time": 567,
+    "timeDay": 5966,
+    "timeWeek": 2279,
+    "timeMonth": 947,
+    "timeYear": 567,
     "dailyMinutesDown": {}
   }
 ]
